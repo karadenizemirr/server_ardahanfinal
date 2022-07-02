@@ -1,5 +1,5 @@
 {
-  "name": "client-admin",
+  "name": "ardahanfinal-server",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -11,16 +11,17 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.2.0",
-    "@strapi/plugin-users-permissions": "4.2.0",
-    "@strapi/plugin-i18n": "4.2.0",
-    "better-sqlite3": "7.4.6"
+    "@strapi/plugin-i18n": "4.2.2",
+    "@strapi/plugin-users-permissions": "4.2.2",
+    "@strapi/strapi": "4.2.2",
+    "better-sqlite3": "7.4.6",
+    "strapi-plugin-import-export-entries": "^1.6.3"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "b66b05aa-611c-4c76-986f-b7c899e04a88"
+    "uuid": "b0a55f41-3c30-4d10-87a2-314234337305"
   },
   "engines": {
     "node": ">=12.x.x <=16.x.x",

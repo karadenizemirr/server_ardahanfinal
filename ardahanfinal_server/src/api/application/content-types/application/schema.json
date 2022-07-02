@@ -26,13 +26,7 @@
     "school": {
       "type": "string"
     },
-    "graduation_number": {
-      "type": "string"
-    },
     "class": {
-      "type": "string"
-    },
-    "identify_np": {
       "type": "string"
     },
     "address": {

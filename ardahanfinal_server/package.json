@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "client-admin",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -11,16 +11,16 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.2.2",
-    "@strapi/plugin-users-permissions": "4.2.2",
-    "@strapi/plugin-i18n": "4.2.2",
+    "@strapi/strapi": "4.2.0",
+    "@strapi/plugin-users-permissions": "4.2.0",
+    "@strapi/plugin-i18n": "4.2.0",
     "better-sqlite3": "7.4.6"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "6ee143a5-6b73-4529-8a95-a711996f65a6"
+    "uuid": "b66b05aa-611c-4c76-986f-b7c899e04a88"
   },
   "engines": {
     "node": ">=12.x.x <=16.x.x",

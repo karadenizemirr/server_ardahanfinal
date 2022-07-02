@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "applications",
+  "info": {
+    "singularName": "application",
+    "pluralName": "applications",
+    "displayName": "Application"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "surname": {
+      "type": "string"
+    },
+    "phone_number": {
+      "type": "string"
+    },
+    "mail_address": {
+      "type": "string"
+    },
+    "school": {
+      "type": "string"
+    },
+    "graduation_number": {
+      "type": "string"
+    },
+    "class": {
+      "type": "string"
+    },
+    "identify_np": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    }
+  }
+}
